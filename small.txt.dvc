@@ -1,0 +1,7 @@
+md5: c1c9a0bb80b87b134de8532dca880f40
+outs:
+- md5: dd2a0a668de4a2245fb0812d5cc26f50
+  path: small.txt
+  cache: true
+  metric: false
+  persist: false
