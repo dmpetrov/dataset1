@@ -1,6 +1,6 @@
-md5: c1c9a0bb80b87b134de8532dca880f40
+md5: 44ae0fcfae9f88f551b89ca992d6b12e
 outs:
-- md5: dd2a0a668de4a2245fb0812d5cc26f50
+- md5: 118338e4c00095ab152aa4d1fa8aa390
   path: small.txt
   cache: true
   metric: false
