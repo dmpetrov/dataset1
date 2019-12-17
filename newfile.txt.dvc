@@ -1,6 +1,6 @@
-md5: 3fab83a662f0d40ea5db8053a691d304
+md5: bc4eaf8e4bfddca39abf47ce63e74e8b
 outs:
-- md5: 30a0069196b1e52824b093436c72c799
+- md5: b6040d926ca31ac4886c9a75dd3d70e7
   path: newfile.txt
   cache: true
   metric: false
