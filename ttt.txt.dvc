@@ -1,0 +1,7 @@
+md5: 7aae51ff36c12346d724f349f6d78f87
+outs:
+- md5: 26706636976f4db726788bb6c342e7fa
+  path: ttt.txt
+  cache: true
+  metric: false
+  persist: false
